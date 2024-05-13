@@ -94,7 +94,7 @@ Clone this repository to your desired folder:
 
 - Clone the project using by running the following command:
 
-`git clone git@github.com:gealsanchez/shopping.git`
+`git clone git@github.com:gealsanchez/todo_react.git`
 
 ### Install
 
